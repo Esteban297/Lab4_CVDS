@@ -22,10 +22,7 @@ public class GameOverModel {
     private String menuButtonText;
     
     private Language lan;
-    
-    
- 
-    
+
     public GameOverModel(Language lan) {
         this.lan=lan;
         this.score = -1;

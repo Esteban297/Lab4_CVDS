@@ -22,7 +22,6 @@ public class HighScoreModel {
     private Color backgroundColor;
     private String backButtonText;
     
-    
     private Language lan;
     
     /*
